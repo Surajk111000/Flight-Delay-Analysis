@@ -105,6 +105,19 @@ All predictors: Statistically significant
 - Scope: Domestic flights only
 - Note: Pre-COVID era data
 
+## 🚀 Live Dashboard
+
+🎉 **Interactive Streamlit Dashboard Now Available!**
+
+Access the live dashboard here: **https://flight-delay-analysis-ifed3pvjfjdfqpz3hmqgt8.streamlit.app/**
+
+### Features:
+- 📊 Interactive airline comparison charts
+- 📅 Weekly and monthly delay patterns
+- ✈️ Top routes analysis
+- 🔍 Real-time filtering by airline, month, and delay threshold
+- 📥 CSV data export capability
+
 ## 🚀 Deployment Ready
 ✅ All dependencies are standard libraries
 ✅ Can be deployed on cloud platforms
@@ -113,4 +126,4 @@ All predictors: Statistically significant
 
 ---
 
-**Status:** Analysis Complete ✅ | **Updated:** March 2026
+**Status:** Analysis Complete ✅ | **Deployed:** March 2026 | **Updated:** March 2026
